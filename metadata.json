@@ -1,0 +1,8 @@
+{
+  "name": "Qobuz Flow",
+  "description": "A minimalist, Apple-inspired web music player powered by Qobuz-DL for high-fidelity streaming and seamless listening.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
